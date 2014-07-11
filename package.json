@@ -1,0 +1,23 @@
+{
+  "name": "testkit",
+  "version": "0.1.0",
+  "description": "Private testing toolkits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RobinQu/testkit.git"
+  },
+  "keywords": [
+    "test",
+    "util"
+  ],
+  "author": "RobinQu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinQu/testkit/issues"
+  },
+  "homepage": "https://github.com/RobinQu/testkit"
+}
